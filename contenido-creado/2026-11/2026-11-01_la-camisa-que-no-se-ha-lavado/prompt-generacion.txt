@@ -1,0 +1,11 @@
+Crea una imagen vertical en formato 4:5 (1080×1350 px) para redes sociales de Jabones Ibarra.
+Imagen de referencia: el archivo adjunto es exclusivamente el logotipo oficial para insertar en la composición; no es referencia de la escena.
+Concepto: El olor de la ropa como memoria de quien ya no está.
+Escena: Una camisa de hombre, usada y sin planchar, colgada en un gancho de madera junto a una ofrenda sencilla con cempasúchil, una veladora y un portarretratos desenfocado en una casa mexicana.
+Estilo: fotografía documental de un momento real en casa, luz natural, encuadre imperfecto, sin poses.
+Paleta: tonos naturales de la escena, con rojo y azul marino del logo solo como acento.
+Composición: Camisa al centro; el texto en la parte superior, sobre pared lisa, con letra serif discreta, legible y márgenes cómodos.
+Texto exacto en la imagen, sin comillas y sin agregar otras palabras:
+Hay una camisa que nadie en esta casa se ha atrevido a lavar.
+Logo: usa el archivo de referencia adjunto sin redibujarlo, deformarlo ni cambiar sus colores, en la esquina inferior derecha, con tamaño discreto. Incluye el logotipo completo conservando sus proporciones.
+Evita: burbujas decorativas, apariencia de banco de imágenes, texto adicional fuera del titular y del propio logo, marcas de agua, logos inventados.

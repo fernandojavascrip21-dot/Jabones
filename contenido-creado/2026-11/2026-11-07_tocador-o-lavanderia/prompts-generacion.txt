@@ -1,0 +1,48 @@
+LÁMINA 1
+
+Genera SOLO LA PRIMERA LÁMINA de un carrusel de cuatro imágenes para redes sociales de una marca mexicana de jabones. Formato vertical 4:5, 1080×1350 px.
+Concepto: Una guía sencilla, de dos caminos: tocador y lavandería.
+Escena: Dos zonas de una misma casa mexicana, cada una ocupando una mitad vertical en una composición fotográfica dividida limpia. A la izquierda, lavabo del baño de cerámica blanca y repisa sencilla. A la derecha, lavadero de concreto del patio con una prenda de algodón junto a él. En ambos lados, luz natural suave, paleta de neutros cálidos, detalles cotidianos sin saturación.
+Estilo: fotografías sencillas y limpias, misma luz y tratamiento de color. Sin personas y sin productos o empaques en esta portada.
+Composición: titular grande en la parte superior sobre pared neutra de ambas mitades, tipografía serif azul marino de lectura clara, márgenes cómodos; lavabo y lavadero visibles al centro.
+Texto exacto, sin comillas, con acentos y punto final:
+Tocador o lavandería: no hacen lo mismo.
+Zona reservada: deja la esquina inferior derecha limpia, con el mismo fondo natural de la escena y poco detalle, sin objetos importantes ni texto para añadir el logo después. No dibujes recuadros, manchas o parches. No agregues logos, marcas de agua, nombres de marca, burbujas decorativas o texto extra.
+
+---
+
+LÁMINA 2
+
+Genera SOLO LA LÁMINA 2 de un carrusel, vertical 4:5 (1080×1350 px).
+Referencia 1: portada del carrusel, úsala para mantener exactamente el ambiente y estilo del baño de la mitad izquierda: cerámica blanca, espejo de madera, pared neutra cálida, repisa de madera, luz natural suave, tipografía serif azul marino. Esta lámina es UNA sola foto del baño, sin división en mitades.
+Referencia 2: foto del empaque oficial Ibarra Neutro 3 pack. Inserta UN SOLO empaque en la repisa del lavabo, visible de frente y legible, conservando idénticos diseño, colores, proporciones y texto. No lo sustituyas por un jabón individual ni inventes otros empaques. El producto es protagonista junto al lavabo y debe ser suficientemente grande para apreciarse.
+Composición: texto grande arriba con márgenes cómodos, lavabo y repisa con el producto al centro. Misma luz, paleta y estilo fotográfico limpio de la portada.
+Único titular exacto, sin comillas:
+Tocador: para tu piel.
+No conservar el titular de la portada. No mostrar lavadero ni ropa.
+Deja limpia la esquina inferior derecha, con el mismo fondo natural y poco detalle, sin objetos importantes ni texto para colocar después el logo. No dibujes recuadros ni parches. No agregues logos o nombres de marca fuera del propio empaque, otras palabras, marcas de agua o burbujas decorativas.
+
+---
+
+LÁMINA 3
+
+Genera SOLO LA LÁMINA 3 de un carrusel, vertical 4:5 (1080×1350 px).
+Referencia 1: portada del carrusel. Mantén el ambiente de su mitad derecha: lavadero de concreto en patio mexicano, pared crema, grifo sencillo y ropa de algodón blanca, luz natural suave cálida, plantas desenfocadas, tipografía serif azul marino. Esta lámina debe ser UNA foto del lavadero, sin división en mitades.
+Referencia 2: empaque oficial Ibarra Limpieza Total 200 g rojo. Inserta UN SOLO empaque sobre el borde seco del lavadero, frontal, completo y legible, conservando idénticos su diseño, colores, ilustraciones, texto y proporciones. No inventes otras presentaciones.
+Composición: texto grande arriba con márgenes cómodos; empaque rojo y ropa junto al lavadero visibles al centro. Misma luz natural y paleta del carrusel, con rojo solo en el producto.
+Único titular exacto, sin comillas:
+Lavandería: para tu ropa.
+No mostrar lavabo del baño ni empaque de tocador ni textos de otras láminas.
+Zona reservada: deja la esquina inferior derecha limpia, con el mismo fondo de la escena y poco detalle, sin objetos importantes ni texto, para añadir después el logo. No dibujes recuadros, manchas o parches, ni logos añadidos, nombres de marca fuera del empaque, marcas de agua o burbujas decorativas.
+
+---
+
+LÁMINA 4
+
+Genera SOLO LA LÁMINA 4, cierre de un carrusel, vertical 4:5 (1080×1350 px).
+Imagen adjunta: referencia de continuidad fotográfica y tipográfica de la portada del carrusel. Mantén neutros cálidos, luz natural suave de ventana, casa mexicana sencilla y tipografía serif azul marino.
+Nueva escena: dos barras de jabón SIN ENVOLTURA juntas sobre una toalla de algodón color crema, sobre una superficie sencilla del hogar. Una barra pequeña de tocador con bordes redondeados y otra barra rectangular de lavandería de mayor tamaño; ambas de tono marfil natural, sin nombres, letras, grabados o logos. Fotografía limpia cercana con textura real de jabón y toalla; fondo desenfocado cálido de la misma casa.
+Composición: texto grande en la parte superior, dos barras visibles al centro sobre la toalla. Sin división en mitades, sin lavabos o lavaderos protagonistas y sin empaques.
+Único texto exacto, con signos y acentos, sin comillas:
+¿Y tú, ya los habías confundido?
+Deja la esquina inferior derecha limpia, con la continuidad natural del fondo o la toalla y poco detalle, sin objetos importantes ni texto para colocar después el logo. No dibujes recuadros, parches, logos, marcas de agua, burbujas decorativas ni texto extra. Conserva márgenes cómodos y lectura clara del titular.

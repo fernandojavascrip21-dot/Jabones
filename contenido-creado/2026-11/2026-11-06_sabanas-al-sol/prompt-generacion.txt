@@ -1,0 +1,10 @@
+Crea una imagen vertical en formato 4:5 (1080×1350 px) para redes sociales de una marca mexicana de jabones.
+Concepto: El placer sencillo de la ropa de cama secada al sol.
+Escena: Sábana blanca ondeando en un tendedero de azotea, con sol de la mañana atravesando la tela y pinzas de madera.
+Estilo: fotografía macro de textura, profundidad de campo reducida, luz natural. Se aprecia la trama real de algodón y sus pliegues suaves, con una sensación cotidiana y cálida.
+Paleta: blanco cálido, azul cielo y madera.
+Composición: Tela ocupando toda la imagen; texto en la parte inferior, sobre una zona de sombra suave. Coloca el texto por encima del margen inferior, con lectura clara y márgenes cómodos, dejando la esquina inferior derecha libre.
+Texto exacto en la imagen, con estos acentos, sin comillas y sin agregar otras palabras:
+Las sábanas secadas al sol siempre fueron otro nivel.
+Zona reservada: deja la esquina inferior derecha limpia, con el mismo fondo de la escena y poco detalle, sin texto ni objetos importantes, porque ahí se colocará el logo después. La escena debe continuar de forma natural en esa zona: no dibujes recuadros, manchas ni parches, y no escribas nada ahí. No agregues logos ni nombres de marca a la imagen.
+Evita: burbujas decorativas, apariencia de banco de imágenes, texto adicional, marcas de agua, recuadros en blanco, logos o nombres de marca.
